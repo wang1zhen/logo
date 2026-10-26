@@ -1,0 +1,11 @@
+# 生成物
+out/
+
+# 环境与缓存
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.ruff_cache/
+.mypy_cache/
